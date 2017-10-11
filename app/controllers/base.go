@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"github.com/astaxie/beego"
-	"github.com/lisijie/webcron/app/libs"
-	"github.com/lisijie/webcron/app/models"
+	"github.com/hjimmy/esay-openshift/app/libs"
+	"github.com/hjimmy/esay-openshift/app/models"
 	"strconv"
 	"strings"
 )

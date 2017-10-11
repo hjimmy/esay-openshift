@@ -12,7 +12,7 @@ INSTALL:
 
   1) Get code:
 
-        $ go get github.com/lisijie/webcron
+        $ go get github.com/hjimmy/easy-openshift
 	$ cd webcron
 	$ cd  conf/app.conf
          Modify  your  config

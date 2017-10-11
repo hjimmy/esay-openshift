@@ -3,9 +3,9 @@ package controllers
 import (
 	"github.com/astaxie/beego"
 	libcron "github.com/lisijie/cron"
-	"github.com/lisijie/webcron/app/jobs"
-	"github.com/lisijie/webcron/app/libs"
-	"github.com/lisijie/webcron/app/models"
+	"github.com/hjimmy/esay-openshift/app/jobs"
+	"github.com/hjimmy/esay-openshift/app/libs"
+	"github.com/hjimmy/esay-openshift/app/models"
 	"strconv"
 	"strings"
 	"time"
